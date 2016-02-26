@@ -1,0 +1,13 @@
+body {
+	background-color: rgb(200,200,200);
+}
+
+logo {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#moto {
+	border: 1px dashed black;
+}
