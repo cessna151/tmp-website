@@ -1,42 +1,25 @@
 body {
-	background-color: rgb(230,230,230);
-	background-image: url("images/flowers.jpg");
+	background-color: rgb(255,255,245);
 	background-size: cover;
 	margin: 0;
 	font-family: Tahoma, Helvetica, sans-serif; 
-	color: black;
+	color: rgb(168,160,152);
 }
 
 header {
 	margin: 0;
 	width: 100%;
 }
-.top {
-	display: inline-block;
-	width: 100%;
-	margin: 0;
+.top img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
-#title {
-	text-decoration: none;
-	font-size: 3em;
-	float: left;
-	color: black;
-}
-.top p {
-	font-size: 1.7em;
-	float: right;
-	padding-right: 1em;
-	padding-top: .5em;
-	margin: 0;
-}
-
 #motto {
-	text-shadow: 4px 4px 3px rgba(0,0,0,0.3);
 	font-weight: 600;
 	font-size: 1.2em;
 	text-align: center;
-	background-color: tan;
-	color: rgb(70,70,70);
+	background-color: wheat;
 	margin: 0;
 	padding-top: 7px;
 	padding-bottom: 3px;
@@ -46,7 +29,7 @@ header {
 nav ul {
     margin: 0;
     padding: 0;
-	background-color: wheat;
+	background-color: beige;
 	list-style-type: none;
 	display: flex;
 }
@@ -55,14 +38,14 @@ nav li {
 }
 nav li a {
 	display: block;
-    color: saddlebrown;
     text-align: center;
     text-decoration: none;
+	color: rgb(168,160,152);
 	font-size: 1.15em;
 	padding: .2em;
 }
 nav li a:hover {
-    background-color: tan;
+    background-color: wheat;
 }
 nav li a:active {
 	position: relative;
@@ -70,20 +53,34 @@ nav li a:active {
 	left: 1px;
 }
 
+p {
+	padding: 2em;
+	margin: 0;
+}
+
 .css-slideshow{
    position: relative;
-   max-width: 495px;
-   height: 370px;
-   margin: 5em auto .5em auto;
+   max-width: 600px;
+   height: 902px;
+   margin: 1em auto .5em auto;
 }
 .css-slideshow figure{
    margin: 0;
    position: absolute;
    opacity:0;
 }
+.css-slideshow img {
+-webkit-box-shadow: 0 0 2px #666;
+box-shadow: 0 0 2px #666;
+}
+.css-slideshow figure:nth-child(1),.css-slideshow figure:nth-child(2),.css-slideshow figure:nth-child(3),.css-slideshow figure:nth-child(4),.css-slideshow figure:nth-child(5) {
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+filter: alpha(opacity=0);
+opacity: 0;
+}
 figure:nth-child(1) {
    animation: xfade 25s 20s infinite;
-}
+   }
 figure:nth-child(2) {
    animation: xfade 25s 15s infinite;
 }
@@ -100,13 +97,13 @@ figure:nth-child(5) {
    0%{
       opacity: 1;
    }
-   17% {
+   10.5% {
       opacity:1;
    }
-   20%{
+   12.5%{
       opacity: 0;
    }
-   97% {
+   98% {
       opacity:0;
    }
    100% {
