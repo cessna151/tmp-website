@@ -127,3 +127,7 @@ figure:nth-child(7) {
       opacity:1;
    }
 }
+
+#contactform {
+	margin: 2em;
+}
