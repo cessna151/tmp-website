@@ -26,78 +26,60 @@ header {
 	width: 100%;
 }
 
-nav ul {
-    margin: 0;
-    padding: 0;
-	background-color: beige;
+.navbar {
 	list-style-type: none;
-	display: flex;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: beige;
 }
-nav li {
-	width: 20%
+.navbar li {
+	float: left;
+	width: 25%;
 }
-nav li a {
+.navbar li a, .dropbtn {
 	display: block;
-    text-align: center;
-    text-decoration: none;
 	color: rgb(168,160,152);
-	font-size: 1.15em;
+	font-size: 1.2em;
 	padding: .2em;
-}
-nav li a:hover {
-    background-color: wheat;
-}
-nav li a:active {
-	position: relative;
-	top: 1px;
-	left: 1px;
-}
-/* Style The Dropdown Button */
-
-
-/* The container <div> - needed to position the dropdown content */
-.dropdown {
-    position: relative;
-    display: inline-block;
-	width: 20%;
-}
-.dropdown li a {
-	display: block;
+	text-decoration: none;
 	text-align: center;
 }
-
-/* Dropdown Content (Hidden by Default) */
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
+.navbar li a:hover, .dropdown:hover .dropbtn {
+	background-color: wheat;
 }
-
-/* Links inside the dropdown */
+li .dropdown {
+}
+.dropdown-content {
+	display: none;
+	position: absolute;
+	width: 25%;
+}
 .dropdown-content a {
-	display: block;
-    text-align: center;
-    text-decoration: none;
-	color: rgb(168,160,152);
 	background-color: beige;
-	font-size: 1.15em;
+	color: rgb(168,160,152);
 	padding: .2em;
 }
-
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: wheat;}
-
-/* Show the dropdown menu on hover */
+.dropdown-content a:hover {
+	background-color: wheat;
+}
 .dropdown:hover .dropdown-content {
 	display: block;
-	background-color: wheat;
-	width: 20%;
 }
 
-/* Change the background color of the dropdown button when the dropdown content is shown */
+h3 {
+	margin-left: 2em;
+}
+#special {
+	font-size: 1.1em;
+}
 
+/*wedding info*/
+#info {
+	list-style-type: circle;
+}
 
-/* Contact info Heading*/
+/*Contact page heading*/
 .tmp {
 	font-size: 2.5em;
 }
@@ -108,31 +90,28 @@ p {
 	margin: 0;
 }
 
+/*contact form*/
 .contact {
 	padding: 2em;
 	padding-top: 0;
 }
 
+/*testimonials*/
+.review {
+	margin: 1em 1em 1em 2em;
+	background-color: beige;
+}
+
 .css-slideshow{
-   position: relative;
-   max-width: 600px;
-   height: 902px;
-   margin: 1em auto .5em auto;
+	position: relative;
+	max-width: 600px;
+	height: 902px;
+	margin: 1em auto .5em auto;
 }
 .css-slideshow figure{
    margin: 0;
    position: absolute;
    opacity:0;
-}
-.css-slideshow img {
--webkit-box-shadow: 0 0 2px #666;
-box-shadow: 0 0 2px #666;
-}
-.css-slideshow figure:nth-child(1),.css-slideshow figure:nth-child(2),.css-slideshow figure:nth-child(3),
-.css-slideshow figure:nth-child(4),.css-slideshow figure:nth-child(5),.css-slideshow figure:nth-child(6),.css-slideshow figure:nth-child(7) {
--ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-filter: alpha(opacity=0);
-opacity: 0;
 }
 figure:nth-child(1) {
    animation: xfade 35s 30s infinite;
@@ -181,4 +160,5 @@ footer {
 	text-align: center;
 	font-size: .8em;
 	margin-top: 3em;
+	margin-bottom: 1em;
 }

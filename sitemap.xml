@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url><loc>http://tmadephoto.com/</loc><changefreq>weekly</changefreq><priority>1.00</priority></url>
+<url><loc>http://gallery.tmadephoto.com</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://tmadephoto.com/family/</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://tmadephoto.com/seniors/</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://tmadephoto.com/newborn/</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://tmadephoto.com/maternity/</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://tmadephoto.com/engagement/</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://tmadephoto.com/wedding/</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://tmadephoto.com/contact/</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://tmadephoto.com/about/</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+</urlset>

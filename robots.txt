@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /gallery/
+Disallow: /contactform/
+Sitemap: http://tmadephoto.com/sitemap.xml
