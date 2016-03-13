@@ -36,11 +36,12 @@ header {
 .navbar li {
 	float: left;
 	width: 25%;
+	min-width: 150px;
 }
 .navbar li a, .dropbtn {
 	display: block;
 	color: rgb(168,160,152);
-	font-size: 1.2em;
+	font-size: 1.7em;
 	padding: .2em;
 	text-decoration: none;
 	text-align: center;
@@ -59,12 +60,14 @@ li .dropdown {
 	background-color: beige;
 	color: rgb(168,160,152);
 	padding: .2em;
+	min-width: 150px;
 }
 .dropdown-content a:hover {
 	background-color: wheat;
 }
 .dropdown:hover .dropdown-content {
 	display: block;
+	z-index: 2;
 }
 
 h3 {
@@ -112,6 +115,7 @@ p {
    margin: 0;
    position: absolute;
    opacity:0;
+   z-index: -1;
 }
 figure:nth-child(1) {
    animation: xfade 35s 30s infinite;
