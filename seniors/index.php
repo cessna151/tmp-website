@@ -11,26 +11,26 @@ $page_description = "Seniors details and pricing."; ?>
 			<br><br>
 			<b>What will you get?</b>
 			<br><br>
-			<b>Full Senior Session $299</b>
+			<b>Full Senior Session $399</b>
 			<br>
-			*Requires a $50 nonrefundable retainer to save your date (Included in session total).
+			*Requires a $100 nonrefundable retainer to save your date (Included in session total).
 		</p>
 		<ul>
-			<li>2-3 hr Coverage</li>
+			<li>2 hr Coverage</li>
 			<li>Up To 5 Outfit Changes</li>
 			<li>2 Locations (local) Within 20 Miles Of Studio</li>
-			<li>20-25+ Pictures</li>
-			<li id="special">*25% Off Any Print Order Over $50*</li>
+			<li>25 Pictures</li>
+			<li id="special">*$50 print credit*</li>
 		</ul>
 		<p>
-		<b>Senior Mini $209</b>
+		<b>Senior Mini $249</b>
 			<br>
 			*Requires a $50 nonrefundable retainer to save your date (Included in session total).
 		</p>
 		<ul>
 			<li>1-1&frac12 Hr Coverage</li>
 			<li>2 Outfit Changes</li>
-			<li>12-15 Pictures</li>
+			<li>12 digital images</li>
 			<li>1 Location (local)</li>
 		</ul>
 	</body>

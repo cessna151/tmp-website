@@ -11,13 +11,13 @@ $page_description = "Maternity details and pricing."; ?>
 			<br><br>
 			<b>What will you get?</b>
 			<br><br>
-			<b>Maternity $89</b>
+			<b>Maternity $129</b>
 			<br>
 			*Requires a $20 nonrefundable retainer to save your date (Included in session total).
 		</p>
 		<ul>
 			<li>45min-1 Hr Session</li>
-			<li>15-20 Pictures</li>
+			<li>15 Pictures</li>
 			<li>2 Outfit Changes</li>
 			<li>Print Release</li>
 		</ul>

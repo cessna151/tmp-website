@@ -3,4 +3,5 @@ Disallow:
 Disallow: /cgi-bin/
 Disallow: /gallery/
 Disallow: /contactform/
+Disallow: /webdesign/
 Sitemap: http://tmadephoto.com/sitemap.xml

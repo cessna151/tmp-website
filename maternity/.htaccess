@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp)$ - [F,NC]
+

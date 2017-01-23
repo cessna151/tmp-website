@@ -6,38 +6,41 @@ $page_description = "Newborn details and pricing."; ?>
 	<body>
 		<p>
 			Are you about to welcome a new baby? Congrats! Newborn pictures are important, you will 
-			cherish these moments as time quickly passes by. What to expect: I will have my studio very 
-			warm, I ask that you and whoever may be attending to dress accordingly, bring extra clothes. 
-			Please, be comfortable and make sure you eat before you come. I ask that baby is kept awake 
-			and fed at least an 1 hour before you leave and be ready to feed baby a lil snack once you 
-			arrive (we want a happy full baby). I ask that you bring a nook pacifier (as this kind 
-			does not leave red marks) even if baby doesn't take one (trust me, this can make or break 
-			it for us). Sometimes they just need it to sooth their self back to sleep. Please feel free to 
+			cherish these moments as time quickly passes by. We need to get baby in between day 5-14. 
+			Studio will be warm, I ask that you and whoever may be attending to dress accordingly, bring extra clothes, 
+		        be comfortable and make sure you eat before you come. I ask that baby is kept awake 
+			and fed  1 hour before you leave and be ready to feed baby a  snack once you 
+			arrive (we want a happy, sleepy and  full baby). Please feel free to 
 			contact me if you have questions. 
 			<br><br>
 			<b>What will you get?</b>
 			<br><br>
-			<b>Baby & Family $259</b>
+			<b>Baby & Family $499</b>
 			<br>
-			*Requires a $50 nonrefundable retainer to save your date (Included in session total).
+			*Requires a $50 nonrefundable retainer to save your date (Included in session total). 
+                        * Payment plans upon request 
+
 		</p>
 		<ul>
 			<li>2-4 Hr Session</li>
 			<li>Multiple Setups And Props Provided</li>
-			<li>20-25 Images</li>
+			<li>20-25 Images + $ 50 print credit  </li>
 			<li>Downloadable Gallery Or Disc</li>
-			<li>Print Release </li>
+			<li>Print Release + $25 milestone credit (used by babies 1yr)
+                          
+                                    
+                        
 		</ul>
 		<p>
-			<b>Just baby $189</b>
+			<b>Just baby $279</b>
 			<br>
 			*Requires a $50 nonrefundable retainer to save your date (Included in session total).
 		</p>
 		<ul>
 			<li>1-2&frac12 Hr Session</li>
-			<li>12-15 Images</li>
+			<li>12 digital  Images</li>
 			<li>Downloadable Gallery Or Disc</li>
-			<li>Print Release </li>
+			<li>Print Release + $25 print credit </li>
 		</ul>
 	</body>
 <?php include("/home/lkzwvspz/public_html/footer.php"); ?>

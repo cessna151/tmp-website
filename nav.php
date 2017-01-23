@@ -5,6 +5,8 @@
 						<li class="dropdown"><a>Investments</a>
 							<div class="dropdown-content">
 								<a href="http://tmadephoto.com/family">Family & Children</a>
+								<a href="http://tmadephoto.com/cakesmash">Cake Smash</a>
+								<a href="http://tmadephoto.com/milestone">Milestone</a>
 								<a href="http://tmadephoto.com/seniors">Seniors</a>
 								<a href="http://tmadephoto.com/newborn">Newborn</a>
 								<a href="http://tmadephoto.com/maternity">Maternity</a>
