@@ -10,7 +10,7 @@ $page_description = "Milestone details and pricing."; ?>
                     <br><br>
                     <b>What will you get?</b>
                     <br><br>
-                    <b>Grow With Me $989 ($275 savings)</b>
+                    <b>Grow With Me $1089)</b>
                     <br>
                     *Requires a $50 nonrefundable retainer to save your date (Included in session total).
                 </p>
@@ -21,9 +21,9 @@ $page_description = "Milestone details and pricing."; ?>
 			<li>print release</li>
                 </ul>
                 <p>
-                    <b>Go Baby Go $799.00 ($116 savings)</b>
+                    <b>Go Baby Go $679</b>
                     <br>
-                    *Requires a $50 nonrefundable retainer to save your date (Included in session total).
+                    *Requires a $50 nonrefundable retainer to save your date
                 </p>
                 <ul>
                     <li>Just Baby(Newborn session), 3mth, 6mth, 9mth, and 1yr cake smash</li>

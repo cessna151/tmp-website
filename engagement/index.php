@@ -12,14 +12,15 @@ $page_description = "Engagement details and pricing."; ?>
 			<br><br>
 			<b>What will you get?</b>
 			<br><br>
-			<b>Engagement $139</b>
+			<b>Engagement $159</b>
 			<br>
-			*Requires a $20 nonrefundable retainer to save your date (Included in session total).
+			*Requires a $20 nonrefundable retainer to save your date 
 		</p>
 		<ul>
 			<li>1 Hr Session</li>
-			<li>15 Images</li>
+			<li>15-20 Images</li>
 			<li>2 Outfit Changes</li>
+			<li>$20 gift print</li>
 			
 		</ul>
 		<P>

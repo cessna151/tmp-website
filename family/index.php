@@ -15,9 +15,9 @@ $page_description = "Family details and pricing."; ?>
 			<br><br>
 			<b>What will you get?</b>
 			<br><br>
-			<b>Family & Children $149 (covers up to 5) add $ 10 each over 5 </b>
+			<b>Family & Children $179 (covers up to 5) add $ 10 each over 5 </b>
 			<br>
-			*Requires a $20 nonrefundable retainer to save your date (Included in session total).
+			*Requires a $20 nonrefundable retainer to save your date 
 		</p>
 		<ul>
 			<li>30-45 Minute Session</li>
